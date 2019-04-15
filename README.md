@@ -1,2 +1,2 @@
-# Analytics
-Github training
+# Employee Attrition
+![image.png](images/HRTalent.png)
